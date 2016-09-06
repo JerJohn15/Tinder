@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=FTGa8Tjwfi8
 # Launch Tinder
 
 1. Fork and Clone
-2. ```bash Npm install``` in terminal
+2. ```npm install``` in terminal
 3.  Run on IOS simulator or Android emulator
 
 ### **To Do**
